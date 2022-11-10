@@ -7839,6 +7839,129 @@ landscape:
         name: General
         items:
           - item:
+            name: Atos SE
+            homepage_url: https://atos.net/
+            logo: atos_se.svg
+            twitter: https://twitter.com/Atos
+            crunchbase: https://www.crunchbase.com/organization/atos
+            crunchbase_data:
+              name: Atos
+              description: Atos provides consulting services and solutions, ranging from supporting strategy development to enterprise solutions and technology.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://atos.net
+              city: Bezons
+              region: Ile-de-France
+              country: France
+              twitter: http://twitter.com/atos
+              linkedin: https://www.linkedin.com/company/atos
+              acquisitions:
+                - date: '2002-06-05'
+                  acquiree: KPMG INDIA
+                - date: '2004-01-29'
+                  acquiree: SchlumbergerSema
+                - date: '2005-01-19'
+                  acquiree: Contrado Technologies
+                - date: '2010-08-26'
+                  acquiree: Venture Infotek Global Private
+                - date: '2012-04-15'
+                  acquiree: blueKiwi software
+                - date: '2014-05-26'
+                  acquiree: BULL
+                  price: 845971742
+                - date: '2014-06-11'
+                  acquiree: Atos Consulting
+                - date: '2014-06-11'
+                  acquiree: Cambridge Technology Partners
+                - date: '2015-10-01'
+                  acquiree: AMG.net S.A.
+                - date: '2015-11-03'
+                  acquiree: Unify
+                  price: 372704851
+                - date: '2016-09-12'
+                  acquiree: Anthelio
+                  price: 275000000
+                - date: '2017-01-02'
+                  acquiree: Engage ESM
+                - date: '2017-01-11'
+                  acquiree: Infopartners OOD
+                - date: '2017-02-17'
+                  acquiree: zData Inc.
+                - date: '2017-10-02'
+                  acquiree: Siemens Convergence Creators
+                - date: '2017-10-04'
+                  acquiree: Conduent - Breakaway Group business
+                - date: '2017-10-04'
+                  acquiree: Pursuit Healthcare Advisors
+                - date: '2017-10-24'
+                  acquiree: Imakumo
+                - date: '2018-04-11'
+                  acquiree: Air-Lynx
+                - date: '2018-07-22'
+                  acquiree: Syntel
+                - date: '2019-10-01'
+                  acquiree: IDnomic
+                - date: '2019-12-18'
+                  acquiree: Maven Wave
+                - date: '2020-04-22'
+                  acquiree: Miner & Kasch Data Science
+                - date: '2020-06-24'
+                  acquiree: Paladion
+                - date: '2020-07-27'
+                  acquiree: EcoAct
+                - date: '2020-10-22'
+                  acquiree: Eagle Creek Software Services
+                - date: '2020-10-22'
+                  acquiree: SEC Consult
+                - date: '2020-12-16'
+                  acquiree: Motiv ICT Security
+                - date: '2021-01-12'
+                  acquiree: In Fidem
+                - date: '2021-02-22'
+                  acquiree: Profit4SF
+                - date: '2021-04-20'
+                  acquiree: Cryptovision
+                - date: '2021-04-20'
+                  acquiree: Ipsotek
+                - date: '2021-04-20'
+                  acquiree: Processia
+                - date: '2021-07-27'
+                  acquiree: Ideal Group
+                - date: '2021-07-27'
+                  acquiree: Nimbix
+                - date: '2021-07-27'
+                  acquiree: Visual BI Solutions
+                - date: '2021-10-20'
+                  acquiree: Datasentics
+                - date: '2021-12-01'
+                  acquiree: AppCentrica
+                - date: '2021-12-07'
+                  acquiree: Cloudreach
+              parents: []
+              ticker: AEXAF
+              stockExchange: otcpink
+              company_type: For Profit
+              industries:
+                - Business Development
+                - Consulting
+                - Enterprise Software
+                - Information Services
+                - Information Technology
+                - Outsourcing
+                - Software
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 1147243648
+              effective_ticker: AEXAF
+            image_data:
+              fileName: atos-se.svg
+              hash: YeUsDOb9DNrAaB31W1eTu45kPkIm5kuyB/RyHQYgqUU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-11-10T09:30:00.000Z
+          - item:
             name: AVEVA Group
             homepage_url: https://aveva.com/
             logo: aveva_group.svg
@@ -8431,24 +8554,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-10-06T20:25:37.000Z
           - item:
-            name: Mission:data Coalition
-            homepage_url: https://missiondata.io/
-            logo: missiondata_coalition.svg
-            twitter: https://twitter.com/mission_data
-            organization:
-              name: Mission:data Coalition
-            crunchbase_data:
-              name: Mission:data Coalition
-              parents: []
-            image_data:
-              fileName: mission-data-coalition.svg
-              hash: oKflOQp4ajYK24lJFIN9ZLQmbc5+Xl0luoXbYvigyyE=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-10-16T01:23:54.000Z
-          - item:
             name: Pionix GmbH
             homepage_url: https://pionix.de/
             logo: pionix_gmbh.svg
@@ -8912,6 +9017,21 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-10-11T15:05:27.000Z
           - item:
+            name: EnergyAi
+            homepage_url: https://energyai.berlin/
+            logo: energyai.svg
+            organization:
+              name: EnergyAi
+            crunchbase_data:
+              name: EnergyAi
+              parents: []
+            image_data:
+              fileName: energy-ai.svg
+              hash: daNATQ8le2AMB7MdXAnUJobOEtwNCE05MM/jyr2/0kA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Energy Foundation
             homepage_url: https://ef.org/
             logo: energy_foundation.svg
@@ -8945,21 +9065,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-10-17T13:23:01.000Z
-          - item:
-            name: EnergyAi
-            homepage_url: https://energyai.berlin/
-            logo: energyai.svg
-            organization:
-              name: EnergyAi
-            crunchbase_data:
-              name: EnergyAi
-              parents: []
-            image_data:
-              fileName: energy-ai.svg
-              hash: daNATQ8le2AMB7MdXAnUJobOEtwNCE05MM/jyr2/0kA=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: ENTSO-E (European Network of Transmission System Operators)
             homepage_url: https://entsoe.eu/
@@ -9340,6 +9445,37 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-10-17T16:00:18.000Z
           - item:
+            name: OpenADR Alliance
+            homepage_url: https://openadr.org/
+            logo: openadr_alliance.svg
+            twitter: https://twitter.com/OpenADRAlliance
+            crunchbase: https://www.crunchbase.com/organization/openadr-alliance
+            crunchbase_data:
+              name: OpenADR Alliance
+              description: OpenADR Alliance is provider of OpenADR standard services through collaboration, education, training, testing, and certification.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.openadr.org
+              city: San Ramon
+              region: California
+              country: United States
+              twitter: https://www.twitter.com/openadralliance
+              linkedin: null
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Education
+            image_data:
+              fileName: open-adr-alliance.svg
+              hash: HwzHlz/Q4E37MEPtsHxSlxQLrOv34fD6BNxS+zwpvLs=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-10-12T14:56:27.000Z
+          - item:
             name: Open Earth Foundation
             homepage_url: https://openfoundation.earth/
             logo: open_earth_foundation.svg
@@ -9373,43 +9509,12 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-10-15T16:03:00.000Z
           - item:
-            name: OpenADR Alliance
-            homepage_url: https://openadr.org/
-            logo: openadr_alliance.svg
-            twitter: https://twitter.com/OpenADRAlliance
-            crunchbase: https://www.crunchbase.com/organization/openadr-alliance
-            crunchbase_data:
-              name: OpenADR Alliance
-              description: OpenADR Alliance is provider of OpenADR standard services through collaboration, education, training, testing, and certification.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: http://www.openadr.org
-              city: San Ramon
-              region: California
-              country: United States
-              twitter: https://www.twitter.com/openadralliance
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Education
-            image_data:
-              fileName: open-adr-alliance.svg
-              hash: HwzHlz/Q4E37MEPtsHxSlxQLrOv34fD6BNxS+zwpvLs=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-10-12T14:56:27.000Z
-          - item:
             name: OpenUK
-            description: Where the UK’s Open communities meet and collaborate
             homepage_url: https://openuk.uk/
             logo: openuk.svg
             twitter: https://twitter.com/openuk_uk
             crunchbase: https://www.crunchbase.com/organization/openuk
+            description: Where the UK’s Open communities meet and collaborate
             crunchbase_data:
               name: OpenUK
               description: We are the UK not for profit organisation committed to develop and sustain UK leadership in Open Technology
